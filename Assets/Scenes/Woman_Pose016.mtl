@@ -1,0 +1,174 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl Figure_1_Dress
+	 Ka 0 0 0
+	 Kd 0.501961 0 0.501961
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Dress_Liner
+	 Ka 0 0 0
+	 Kd 0.501961 0.501961 0.501961
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Torso
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Leg_Left
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Shoes
+	 Ka 0 0 0
+	 Kd 0.0862745 0.0862745 0.0862745
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Feet
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Shoes_Sole
+	 Ka 0 0 0
+	 Kd 0.117647 0.117647 0.117647
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Fingernails
+	 Ka 0 0 0
+	 Kd 0.913726 0.419608 0.396078
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Hair_Ponytail
+	 Ka 0 0 0
+	 Kd 0.996078 0.886275 0.627451
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Head
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Scrungie
+	 Ka 0 0 0
+	 Kd 1 0.976471 0.843137
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Hair
+	 Ka 0 0 0
+	 Kd 0.996078 0.886275 0.627451
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Mouth
+	 Ka 0 0 0
+	 Kd 0.705882 0.403922 0.403922
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Tongue
+	 Ka 0 0 0
+	 Kd 0.705882 0.403922 0.403922
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Teeth
+	 Ka 0 0 0
+	 Kd 0.705882 0.403922 0.403922
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Gums
+	 Ka 0 0 0
+	 Kd 0.705882 0.403922 0.403922
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Pupil
+	 Ka 0 0 0
+	 Kd 0 0 0
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Iris
+	 Ka 0 0 0
+	 Kd 0.313726 0.32549 0.745098
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Eye
+	 Ka 0 0 0
+	 Kd 1 1 1
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Cornea_Inner
+	 Ka 0 0 0
+	 Kd 0.501961 0.501961 0.501961
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Cornea_Outer
+	 Ka 0 0 0
+	 Kd 0.501961 0.501961 0.501961
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Arm_Left
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Palm_Left
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Hand_Left
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Leg_Right
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Arm_Right
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Hand_Right
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
+newmtl Figure_1_Woman_Palm_Right
+	 Ka 0 0 0
+	 Kd 0.909804 0.737255 0.54902
+	 Ks 0.00376471 0.00376471 0.00376471
+	 illum 2
+	 Ns 2.2518e+015
